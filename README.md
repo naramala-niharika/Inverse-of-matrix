@@ -47,6 +47,7 @@ inverse=np.linalg.inv(value1)
 print(inverse)
 
 ## OUTPUT:
-![output]()
+![output](https://github.com/naramala-niharika/Inverse-of-matrix/blob/main/d1.PNG?raw=true)
 
 ## RESULT:
+Thus the program is written to inverse of a matrix.
